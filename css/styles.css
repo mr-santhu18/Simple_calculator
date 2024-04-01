@@ -1,0 +1,26 @@
+body{
+
+background-color: #BB8493;
+}
+
+h1{
+    color:#071791;
+}
+label{
+    color: #FFC700;
+}
+  
+.button{
+    color: #FFC700;
+    size: 70px;
+}
+.container{
+    background-color:  #BB8493;
+    max-width: max-content;
+}
+#first{
+    color: #453F78;
+}
+#second{
+    color: #453F78;
+}
